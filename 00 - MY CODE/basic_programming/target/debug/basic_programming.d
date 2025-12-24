@@ -1,0 +1,1 @@
+/Users/bertdestoop/Documents/Rust-Programming-Master-Class-from-Beginner-to-Expert/00\ -\ MY\ CODE/basic_programming/target/debug/basic_programming: /Users/bertdestoop/Documents/Rust-Programming-Master-Class-from-Beginner-to-Expert/00\ -\ MY\ CODE/basic_programming/src/main.rs
